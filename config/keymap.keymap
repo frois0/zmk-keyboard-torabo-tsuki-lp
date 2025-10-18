@@ -38,7 +38,7 @@
 &none    &kp Q      &kp P      &kp R           &kp D      &kp C                                                          &kp B         &kp K   &kp U       &kp Y        &kp X        &none
 &none    &kp A      &kp T      &kp N           &kp S      &kp W        &none                     &none                   &kp M         &kp H   &kp E       &kp I        &kp O        &none
 &none    &kp DEL    &kp Z      &kp L           &kp G      &kp J        &kp ESCAPE                &kp TAB                 &kp F         &kp V   &kp COMMA   &kp PERIOD   &kp ENTER    &none
-&none    &lt 4      &kp LCTRL  &kp LEFT_WIN   &kp LALT   &lt 1 BSPC   &mt RCTRL LANGUAGE_2      &mt RSHIFT LANGUAGE_1   &lt 2 SPACE   &none   &none       &trans       &lt 3        &none
+&none    &mo 4      &kp LCTRL  &kp LEFT_WIN   &kp LALT   &lt 1 BSPC   &mt RCTRL LANGUAGE_2      &mt RSHIFT LANGUAGE_1   &lt 2 SPACE   &none   &none       &trans       &mo 3        &none
             >;
         };
 
