@@ -77,7 +77,7 @@
 &none  &none   &none   &none      &none      &none                   &none   &none      &none         &none       &none   &none
 &none  &trans  &trans  &trans     &trans     &trans                  &trans  &trans     &trans        &trans      &trans  &none
 &none  &trans  &trans  &trans     &trans     &trans  &none   &none   &trans  &trans     &trans        &trans      &trans  &none
-&none  &trans  &trans  &trans     &trans     &trans  &trans  &trans  &trans  &mkp LCLK  &&mkp MCLK    &mkp RCLK   &trans  &none
+&none  &trans  &trans  &trans     &trans     &trans  &trans  &trans  &trans  &mkp LCLK  &mkp MCLK     &mkp RCLK   &trans  &none
 &none  &trans  &trans  &trans     &trans     &trans  &trans  &trans  &trans  &none      &none         &trans      &trans  &none
             >;
         };
